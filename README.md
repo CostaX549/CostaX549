@@ -23,7 +23,7 @@ Sou um desenvolvedor web e sou apaixonado por tecnologias da web.
 #### 🛰 Como me alcançar:
 
 <a href="https://www.instagram.com/santoscostag/">
-    <img src="./assets/img/instagram.png" />
+    <img src="./instagram.png" />
 </a>
 
 
